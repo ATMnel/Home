@@ -1,4 +1,4 @@
-## [Ziyang ZHU](https://ziyangzhu.github.io/home/)
+## [Ziyang ZHU](https://ziyangzhu.github.io/Home/)
 I am a graduate student of the school of Mathematical Sciences, Capital Normal University.
 
 ### Personal information:
