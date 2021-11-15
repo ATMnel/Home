@@ -15,9 +15,9 @@ I am a graduate student of the school of Mathematical Sciences, Capital Normal U
 **Blog:** [https://www.cnblogs.com/zhuziyangcnu](https://www.cnblogs.com/zhuziyangcnu) (In Chinese)
 
 ### Teaching:
-- **Arithmetic Geometry**. 2021 Spring, 48 calss hours, graduate students, [CNU](https://cnu.edu.cn/).
-- **Riemann Surfaces**. 2021 Spring, 64 calss hours, graduate students, [CNU](https://cnu.edu.cn/).
-- **Dynamic Systems**. 2021 Fall, 48 calss hours, graduate students, [CNU](https://cnu.edu.cn/).
+- **Arithmetic Geometry**. 2021 Spring, 48 class hours, graduate students, [CNU](https://cnu.edu.cn/).
+- **Riemann Surfaces**. 2021 Spring, 64 class hours, graduate students, [CNU](https://cnu.edu.cn/).
+- **Dynamic Systems**. 2021 Fall, 48 class hours, graduate students, [CNU](https://cnu.edu.cn/).
 
 ### Lecture Notes:
 Here are my lecture notes. They may have some mistakes, if you find them, please email me!
