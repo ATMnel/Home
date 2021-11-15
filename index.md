@@ -1,14 +1,14 @@
-## Welcome to Ziyang ZHU's Homepage!
+## Ziyang ZHU (朱子阳)
 
 I am a graduate student of the school of Mathematical Sciences, Capital Normal University.
 
 ### Personal information:
 
-**Research Interests:** Algebraic Number Theory.
+**Research Interests:** _Algebraic Number Theory_.
 
 **E-mail:** zhuziyang@cnu.edu.cn
 
-**Blog:** https://www.cnblogs.com/zhuziyangcnu (In Chinese)
+**Blog:** [https://www.cnblogs.com/zhuziyangcnu](https://www.cnblogs.com/zhuziyangcnu) (In Chinese)
 
 
 
@@ -18,16 +18,16 @@ I am a graduate student of the school of Mathematical Sciences, Capital Normal U
 
 ### Teaching:
 
-- **Arithmetic Geometry**. 2021 Spring, 48 calss hours, graduate students, Capital Normal University.
+- **Arithmetic Geometry**. 2021 Spring, 48 calss hours, graduate students, [CNU](https://cnu.edu.cn/).
 
-- **Riemann Surfaces**. 2021 Spring, 64 calss hours, graduate students, Capital Normal University.
+- **Riemann Surfaces**. 2021 Spring, 64 calss hours, graduate students, [CNU](https://cnu.edu.cn/).
 
-- **Dynamic Systems**. 2021 Fall, 48 calss hours, graduate students, Capital Normal University.
+- **Dynamic Systems**. 2021 Fall, 48 calss hours, graduate students, [CNU](https://cnu.edu.cn/).
 
 
 ### Lecture Notes:
 
-Here are my notes or lecture notes. They may have some mistakes, if you find them, please correct them for me!
+Here are my lecture notes. They may have some mistakes, if you find them, please correct them for me!
 
 (In Chinese)
 
@@ -35,12 +35,12 @@ Here are my notes or lecture notes. They may have some mistakes, if you find the
 
 ### Presentations：
 
-- Topological and Statistical Methods in Number Theory. Jiangsu Normal University, 2022-01.
+- Topological and Statistical Methods in Number Theory. [JSNU](http://www.jsnu.edu.cn/), 2022-01.
 
 
 ### Invitation Reports：
 
-1. Classification of Algebraic Curves and Riemann Surfaces. J.Y. Zhao, 2021-06.
+- Classification of Algebraic Curves and Riemann Surfaces. J.Y. Zhao @[UIC](https://www.uic.edu/), 2021-06.
 
 
 
