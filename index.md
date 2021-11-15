@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## Welcome to Ziyang ZHU's Homepage!
 
-You can use the [editor on GitHub](https://github.com/ZiyangZhu/zzycnu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a graduate student of the school of Mathematical Sciences, Capital Normal University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal information:
 
-### Markdown
+**Research Interests:** Algebraic Number Theory.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**E-mail:** zhuziyang@cnu.edu.cn
 
-```markdown
-Syntax highlighted code block
+**Blog:** https://www.cnblogs.com/zhuziyangcnu (In Chinese)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Teaching:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZiyangZhu/zzycnu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **Arithmetic Geometry**. 2021 Spring, 48 calss hours, graduate students, Capital Normal University.
 
-### Support or Contact
+- **Riemann Surfaces**. 2021 Spring, 64 calss hours, graduate students, Capital Normal University.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **Dynamic Systems**. 2021 Fall, 48 calss hours, graduate students, Capital Normal University.
+
+
+### Lecture Notes:
+
+Here are my notes or lecture notes. They may have some mistakes, if you find them, please correct them for me!
+
+(In Chinese)
+
+
+
+### Presentations：
+
+- Topological and Statistical Methods in Number Theory. Jiangsu Normal University, 2022-01.
+
+
+### Invitation Reports：
+
+1. Classification of Algebraic Curves and Riemann Surfaces. J.Y. Zhao, 2021-06.
+
+
+
+### Publications:
+
+1. Y. Zhuang, **Z.Y. Zhu** and X.J. Zhang. Syzygy Functors for Self-injective Algebras. _Asia Mathematika_, Volume: 3 Issue: 3, (2019) 23-33. [Representation Theory]
+
+
+
+
+
+
+
+
