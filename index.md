@@ -8,6 +8,8 @@ I am a graduate student of the school of Mathematical Sciences, Capital Normal U
 
 **Research Interests:** _Algebraic Number Theory_.
 
+**Supervisor:** Prof. [Shun Tang](https://tangshun-math.github.io/).
+
 **E-mail:** zhuziyang@cnu.edu.cn
 
 **Blog:** [https://www.cnblogs.com/zhuziyangcnu](https://www.cnblogs.com/zhuziyangcnu) (In Chinese)
