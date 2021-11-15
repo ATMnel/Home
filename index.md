@@ -14,15 +14,10 @@ I am a graduate student of the school of Mathematical Sciences, Capital Normal U
 
 **Blog:** [https://www.cnblogs.com/zhuziyangcnu](https://www.cnblogs.com/zhuziyangcnu) (In Chinese)
 
-
-
-
-
 ### Teaching:
 - **Arithmetic Geometry**. 2021 Spring, 48 calss hours, graduate students, [CNU](https://cnu.edu.cn/).
 - **Riemann Surfaces**. 2021 Spring, 64 calss hours, graduate students, [CNU](https://cnu.edu.cn/).
 - **Dynamic Systems**. 2021 Fall, 48 calss hours, graduate students, [CNU](https://cnu.edu.cn/).
-
 
 ### Lecture Notes:
 Here are my lecture notes. They may have some mistakes, if you find them, please email me!
@@ -42,10 +37,18 @@ Here are my lecture notes. They may have some mistakes, if you find them, please
 ### Publications:
 1. Y. Zhuang, **Z.Y. Zhu** and X.J. Zhang. Syzygy Functors for Self-injective Algebras. _Asia Mathematika_, Volume: 3 Issue: 3, (2019) 23-33. [Representation Theory]
 
+### Useful Links:
+- Homepages:
 
+[Yongqi Liang](http://staff.ustc.edu.cn/~yqliang/) | [Xiaoxiang Zhou](http://home.ustc.edu.cn/~xx352229) | [Rui Xiong](http://www.cnblogs.com/XiongRuiMath/) | [Wenwei Li](https://www.wwli.asia/index.php/zh/) | [J.S. Milne](http://www.jmilne.org/math/index.html) | [Pete L. Clark](http://math.uga.edu/~pete/) | [John Baez](https://math.ucr.edu/home/baez/TWF.html) | [Álvaro L.-Robledo](https://alozano.clas.uconn.edu/) | [Terence Tao](https://terrytao.wordpress.com/) | [Keith Conrad](https://kconrad.math.uconn.edu/) | [Brian Conrad](http://math.stanford.edu/~conrad/) | [Pak-Hin Lee](http://www.math.columbia.edu/~phlee/) | [Matthew Morrow](https://webusers.imj-prg.fr/~matthew.morrow/) | [Armin Straub](http://arminstraub.com/) |
 
+- Websites:
 
+[ZLibrary](https://singlelogin.org/) | [MathOverflow](https://mathoverflow.net/) | [Stackexchange](https://math.stackexchange.com/) | [StacksProject](https://stacks.math.columbia.edu/) | [WikiPedia](https://en.jinzhao.wiki/wiki/Main_Page) | [TheRisingSea](http://therisingsea.org/post/notes/) | [arXiv](http://arxiv.org/) | [nLab](https://ncatlab.org/nlab/show/HomePage) | [LaTeXdiagrams](http://math.uchicago.edu/~weinan/programs/tex_diagrams/diagrams.html) | [CambridgeTextbooks](https://www.cambridge.org/core/what-we-publish/textbooks) | [GroupNames](https://people.maths.bris.ac.uk/~matyd/GroupNames/index.html) | [MathIM](https://mathim.com/) | [SageMath](http://www.sagemath.org/) | [ProofWiki](https://proofwiki.org/wiki/Main_Page) | [Warming](http://staff.ustc.edu.cn/~mathsu01/pu/waming.html) | [AMS](https://www.ams.org/home/page) | [MathScinet](https://mathscinet.ams.org/mathscinet/index.html) | [EMS](https://euro-math-soc.eu/) | [EncyclopediaOfMath](https://encyclopediaofmath.org/wiki/Main_Page) | [Overleaf](https://www.overleaf.com/) | [EGA](https://ega.fppf.site/) | [WStein](https://wstein.org/129/ant/html/ant.html) | [Libgen](http://libgen.li/) | [TheFreeDictionary](https://www.thefreedictionary.com/) | [Algebrat](http://www.algebra.at/) | [LMFDB](http://www.lmfdb.org/) | [K3Surfaces](http://www.grdb.co.uk/forms/k3) | [onAcademic](https://www.onacademic.com/) | [zbMATH](https://zbmath.org/) | [Sci-Hub](https://lovescihub.wordpress.com/) | [TPChina](https://tpchina.github.io/) | [AFP](https://www.isa-afp.org/index.html) | [Kerodon](https://kerodon.net/) | [Banana](https://www.bananaspace.org/wiki/%E9%A6%96%E9%A1%B5) | [WhatIs](http://www.ams.org/cgi-bin/notices/amsnotices.pl?article_id=whatis&article_type=gallery&gallery_type=whatis) | [Persiflage](https://www.galoisrepresentations.com/) | [GeoGebra](https://www.geogebra.org/) | [OALib](https://www.oalib.com/) | [OEIS](http://oeis.org/) | [RhapsodyInNumbers](http://yozh.org/) | [GoogleScholar](http://scholar.hedasudi.com/) | [CTEX](http://www.ctex.org/HomePage) | [Lean](https://leanprover-community.github.io/) | [Quiver](https://q.uiver.app/) | [Mathcha](https://www.mathcha.io/editor) | [ScienceSoft](http://sciencesoft.at/) | [WolframMathWorld](https://mathworld.wolfram.com/) | [Britannica](https://www.britannica.com/) | [ArithmeticVariety](https://www.ocf.berkeley.edu/~rohanjoshi/) | [GlossaryofAG](https://en.jinzhao.wiki/wiki/Glossary_of_algebraic_geometry) | [Groupprops](https://groupprops.subwiki.org/wiki/Main_Page) | [Mazur'sKnottyDictionary](http://www.neverendingbooks.org/mazurs-dictionary) | [PKU](https://portal.pku.edu.cn/) | [IllustratingMath](https://im.icerm.brown.edu/) |
 
+- More:
+
+[viXra](http://vixra.org/) | [Genealogy](https://www.genealogy.math.ndsu.nodak.edu/index.php) | [Mathgen](http://thatsmathematics.com/mathgen/) | [XKCD](https://xkcd.com/) |
 
 
 
