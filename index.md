@@ -4,7 +4,7 @@ I am a graduate student of the school of Mathematical Sciences, Capital Normal U
 
 ### Personal information:
 
-**Name:** [朱子阳](https://ziyangzhu.github.io/zzycnu.github.io/) (Ziyang ZHU)
+**Name:** [朱子阳](https://ziyangzhu.github.io/home/) (Ziyang ZHU)
 
 **Research Interests:** _Algebraic Number Theory_.
 
