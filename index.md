@@ -3,8 +3,6 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 ### Personal information:
 
-<img src="https://user-images.githubusercontent.com/63255508/141978757-bb21dfe8-88b1-41ed-a5ab-0365d938ab3a.png" width=150px>
-
 **Name:** 朱子阳 (Ziyang ZHU)
 
 **Research Interests:** [Algebraic Number Theory](https://en.jinzhao.wiki/wiki/Algebraic_number_theory).
