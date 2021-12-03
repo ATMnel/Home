@@ -7,7 +7,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Name:** 朱子阳 (Ziyang ZHU)
 
-**Research Interests:** _Algebraic Number Theory_.
+**Research Interests:** [Algebraic Number Theory](https://en.jinzhao.wiki/wiki/Algebraic_number_theory).
 
 **Supervisor:** Prof. [Shun Tang](https://tangshun-math.github.io/).
 
