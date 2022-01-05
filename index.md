@@ -7,7 +7,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Research Interests:** [Algebraic Number Theory](https://en.jinzhao.wiki/wiki/Algebraic_number_theory)
 
-**Supervisor:** Prof. [Shun TANG](https://tangshun-math.github.io/)
+**Supervisor:** Prof. [Shun TANG](https://tangshun-math.github.io/); Prof. [Fei XU](https://math.cnu.edu.cn/szdw/qtjs/122253.htm)
 
 **E-mail:** zhuziyang@cnu.edu.cn
 
