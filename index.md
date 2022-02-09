@@ -5,9 +5,9 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Name:** 朱子阳 (Ziyang ZHU)
 
-**Research Interests:** [Algebraic Number Theory](https://en.jinzhao.wiki/wiki/Algebraic_number_theory)
+**Research Interests:** Number Theory
 
-**Supervisor:** Prof. [Shun TANG](https://tangshun-math.github.io/); Prof. [Fei XU](https://math.cnu.edu.cn/szdw/qtjs/122253.htm)
+**Supervisor:** Prof. Shun TANG; Prof. Fei XU
 
 **E-mail:** zhuziyang@cnu.edu.cn
 
