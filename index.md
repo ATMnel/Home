@@ -5,7 +5,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Name:** 朱子阳 (Ziyang ZHU)
 
-**Research Interests:** Number Theory
+**Research Interests:** Number Theory, Arakelov Geometry, Dynamical System
 
 **Supervisor:** Prof. Shun TANG; Prof. Fei XU
 
