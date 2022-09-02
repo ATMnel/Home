@@ -5,11 +5,14 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Name:** 朱子阳 (Ziyang ZHU)
 
-**Research Interests:** Number Theory, Arakelov Geometry, Dynamical Systems
+**E-mail:** zhuziyang@cnu.edu.cn
 
 **Supervisor:** Prof. Shun TANG; Prof. Fei XU
 
-**E-mail:** zhuziyang@cnu.edu.cn
+**Research Interests:** 
+* _Number Theory_: algebraic number theory, elliptic curves and automorphic forms; 
+* _Arithmetic Geometry_: Arakelov theory and Riemann-Roch phenomenon, height functions;
+* _Dynamical System_: dynamical invariants and their applications in algebraic geometry.
 
 ### [Teaching](https://ziyangzhu.github.io/Teaching/)
 ### [Lecture Notes](https://ziyangzhu.github.io/Notes/)
