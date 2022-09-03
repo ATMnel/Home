@@ -10,9 +10,9 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 **Supervisor:** Prof. Shun TANG; Prof. Fei XU
 
 **Research Interests:** 
-* _Number Theory_: algebraic number theory, elliptic curves and automorphic forms; 
-* _Arithmetic Geometry_: Arakelov theory and Riemann-Roch phenomenon, height functions;
-* _Dynamical System_: dynamical invariants and their applications in algebraic geometry.
+* **Number Theory:** algebraic number theory, elliptic curves and automorphic forms; 
+* **Arithmetic Geometry:** height functions, Arakelov theory and Riemann-Roch formula;
+* **Dynamical System:** dynamical invariants and their applications in algebraic geometry.
 
 ### [Teaching](https://ziyangzhu.github.io/Teaching/)
 ### [Lecture Notes](https://ziyangzhu.github.io/Notes/)
