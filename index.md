@@ -20,4 +20,4 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 ### [Useful Links](https://ziyangzhu.github.io/Links/)
 
 
-![v2-6fe879b650da6caa23c3078ece271f13_r](https://user-images.githubusercontent.com/63255508/141781106-2080dbc5-9491-4d99-a611-91a57aaafffc.jpg)
+![Diana](https://ziyangzhu.github.io/Home/diana.jpg)
