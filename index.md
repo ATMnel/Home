@@ -5,7 +5,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Name:** 朱子阳 (Ziyang ZHU)
 
-**E-mail:** <a href="mailto:zhuziyang@cnu.edu.cn">zhuziyang@cnu.edu.cn</a>
+**E-mail:** subsunzhu@gmail.com; zhuziyang@cnu.edu.cn
 
 **Supervisor:** Prof. Shun TANG; Prof. Fei XU
 
