@@ -1,5 +1,5 @@
 ## [Ziyang ZHU](https://ziyangzhu.github.io/Home/)
-I am a postgraduate student of the School of Mathematical Sciences, Capital Normal University.
+I am a Ph.D student (2023-?) of the School of Mathematical Sciences, Capital Normal University.
 
 ### Personal information:
 
